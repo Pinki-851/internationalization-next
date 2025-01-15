@@ -1,0 +1,21 @@
+{
+    "apple": " need to add content related to apple",
+    "entity": "current entity is {entity} ",
+    "first": "this is my first time setup",
+    "footer": {
+        "copyRight": "© 2025 Your Company. All rights reserved."
+    },
+    "generic": {
+        "missingTranslation": "Translation Missing"
+    },
+    "language": {
+        "english": "English",
+        "german": "Deutsch"
+    },
+    "text": {
+        "homeDescriptionText": "Select your preferred language below to change the interface.",
+        "homeText": "Welcome to Language Switcher",
+        "label": "Change Language",
+        "selected_lang": "your current selceted language is english"
+    }
+}

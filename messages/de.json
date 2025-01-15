@@ -1,0 +1,21 @@
+{
+    "apple": "Inhalt zu Apple hinzufügen",
+    "entity": "current entity is {entity} ",
+    "first": "Dies ist meine erste Einrichtung",
+    "footer": {
+        "copyRight": "© 2025 Ihr Unternehmen. Alle Rechte vorbehalten."
+    },
+    "generic": {
+        "missingTranslation": "Translation Missing"
+    },
+    "language": {
+        "english": "Englisch-Deutsch",
+        "german": "Deutsch"
+    },
+    "text": {
+        "homeDescriptionText": "Wählen Sie unten Ihre bevorzugte Sprache aus, um die Oberfläche zu ändern.",
+        "homeText": "Willkommen beim Sprachwechsler",
+        "label": "Sprache ändern",
+        "selected_lang": "Ihre aktuell ausgewählte Sprache ist Deutsch"
+    }
+}
